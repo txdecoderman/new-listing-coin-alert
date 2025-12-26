@@ -1,4 +1,4 @@
-# Solana Meme Coin Graduation Alert
+# New Listing Coin Alerts
 This repo help everyone create a telegram bot to notify new listing liquidity on Solana, Ethereum, BNB, Base
 
 Powered by https://txdecoder.xyz
@@ -41,5 +41,8 @@ TXDECODER_API_KEY=
 ```bash
 node index.js
 ```
+
+## Documents
+https://txdecoder.gitbook.io/docs/tutorials/creating-dex-new-listing-streams 
 
 
