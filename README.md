@@ -1,5 +1,5 @@
 # Solana Meme Coin Graduation Alert
-This repo help everyone create a telegram bot to notify new meme coin graduation on Solana
+This repo help everyone create a telegram bot to notify new listing liquidity on Solana, Ethereum, BNB, Base
 
 Powered by https://txdecoder.xyz
 
@@ -42,5 +42,4 @@ TXDECODER_API_KEY=
 node index.js
 ```
 
-## Example:
-https://t.me/+Z1QZM3aRDok0ZWM
+
